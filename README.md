@@ -1,5 +1,4 @@
-# price-calculator
-Routing of telephone calls
+# Routing of telephone calls
 Some telephone operators have submitted their price lists including price per minute for different phone number prefixes. The price lists look like this:
 Operator A:
 1     0.9
